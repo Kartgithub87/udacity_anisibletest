@@ -1,2 +1,1 @@
-# udacity_anisibletest
-Ansible test script
+it showcases to print the $PATH variable output
